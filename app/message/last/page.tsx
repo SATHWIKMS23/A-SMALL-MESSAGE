@@ -25,7 +25,7 @@ export default function Message ()  {
             </span>
 
             <span>
-                I dont need your constant attention , or you need to come and work here for hours but we can be like this too . <b>Right ? </b>
+                I dont need your constant attention , or you need to come and work here for hours but we cannot be like this too . <b>Right ? </b>
             </span>
 
             <span>
