@@ -19,7 +19,7 @@ export default function Message ()  {
         </div>
 
 
-        <div className="flex flex-col gap-[2vw]">
+        <div className="flex flex-col gap-[2vw] items-center">
 
             <div>
               If you ever feel alone, just look at these things and remember one thing — &quot;I AM STILL HERE.&quot; No matter how difficult things get or how alone you may feel, I&apos;ll always be here for you, supporting you and standing by you.
