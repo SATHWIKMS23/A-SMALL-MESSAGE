@@ -64,7 +64,7 @@ export default function Message ()  {
         </div>
 
         <div>
-            Even though I may be the last person you ever think of when you need someone, just come to me whenever you feel like you need to talk. I’ll be here, I’ll listen to everything
+            Even though I may be the last person you ever think of when you need someone, just come to me whenever you need . I’ll be here, I’ll listen to everything
         </div>
 
 
